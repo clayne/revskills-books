@@ -5,6 +5,8 @@
 - [x]  Active Measures: The Secret History of Disinformation and Political Warfare [Amazon](https://www.amazon.com/Active-Measures-History-Disinformation-Political/dp/0374287260) \[**10**\]
 - [ ]  Russians Among Us: Sleeper Cells, Ghost Stories, and the Hunt for Putin's Spies [Amazon](https://www.amazon.com/Unti-Lou-Areroc/dp/0062889419/)
 - [ ]  Spymaster: My Thirty-two Years in Intelligence and Espionage Against the West [Amazon](https://www.amazon.com/Spymaster-Thirty-two-Intelligence-Espionage-Against/dp/0465014453/)
+- [ ]  Secret Intelligence: A Reader [Amazon](https://www.amazon.com/Christopher-Andrew-dp-0415420237/dp/0415420237/)
+- [ ]  The Secret World: A History of Intelligence [Amazon](https://www.amazon.com/Christopher-Andrew/dp/0300238444/)
 - [ ]  The Moscow Rules: The Secret CIA Tactics That Helped America Win the Cold War [Amazon](https://www.amazon.com//gp/product/B079L4W3DR/)
 - [x]  We Are Bellingcat, An Intelligence Agency for the People [Amazon](https://www.amazon.com/Eliot-Higgins-ebook/dp/B08N4SBFM6/) \[**5**\]
 - [x]  This Is How They Tell Me the World Ends: The Cyberweapons Arms Race [Amazon](https://www.amazon.com/Nicole-Perlroth-ebook/dp/B0877D6H28/r) [**5**\]
