@@ -1,6 +1,6 @@
 ## books [1/10]
 
-- [ ]  Unmasking Maskirovka [Amazon](https://www.amazon.com/-/es/Unmasking-Maskirovka-Russias-Influence-Operations/dp/0578451425/)
+- [x]  Unmasking Maskirovka [Amazon](https://www.amazon.com/-/es/Unmasking-Maskirovka-Russias-Influence-Operations/dp/0578451425/) \[**8**\]
 - [ ]  Russian Influence Campaigns against the West: From the Cold War to Putin [Amazon](https://www.amazon.com/Russian-Influence-Campaigns-against-West/dp/1535597097/)
 - [x]  Active Measures: The Secret History of Disinformation and Political Warfare [Amazon](https://www.amazon.com/Active-Measures-History-Disinformation-Political/dp/0374287260) \[**10**\]
 - [ ]  Russians Among Us: Sleeper Cells, Ghost Stories, and the Hunt for Putin's Spies [Amazon](https://www.amazon.com/Unti-Lou-Areroc/dp/0062889419/)
