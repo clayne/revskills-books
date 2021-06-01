@@ -1,6 +1,6 @@
 ## books [1/10]
 
-- [ ]  @War: The Rise of the Military-Internet Complex [Amazon](https://www.amazon.com/War-Rise-Military-Internet-Complex/dp/0544570286)
+- [x]  @War: The Rise of the Military-Internet Complex [Amazon](https://www.amazon.com/War-Rise-Military-Internet-Complex/dp/0544570286) \[**6**\]
 - [ ]  Russian Influence Campaigns against the West: From the Cold War to Putin [Amazon](https://www.amazon.com/Russian-Influence-Campaigns-against-West/dp/1535597097/)
 - [x]  Unmasking Maskirovka [Amazon](https://www.amazon.com/-/es/Unmasking-Maskirovka-Russias-Influence-Operations/dp/0578451425/) \[**8**\]
 - [x]  Active Measures: The Secret History of Disinformation and Political Warfare [Amazon](https://www.amazon.com/Active-Measures-History-Disinformation-Political/dp/0374287260) \[**10**\]
