@@ -8,6 +8,7 @@
 - [ ]  Russians Among Us: Sleeper Cells, Ghost Stories, and the Hunt for Putin's Spies [Amazon](https://www.amazon.com/Unti-Lou-Areroc/dp/0062889419/)
 - [ ]  Český krtek v CIA
 - [ ]  Spymaster: My Thirty-two Years in Intelligence and Espionage Against the West [Amazon](https://www.amazon.com/Spymaster-Thirty-two-Intelligence-Espionage-Against/dp/0465014453/)
+- [ ]  To Catch a Spy: The Art of Counterintelligence [Amazon](https://www.amazon.com/Catch-Spy-Art-Counterintelligence/dp/1626166803)
 - [ ]  Secret Intelligence: A Reader [Amazon](https://www.amazon.com/Christopher-Andrew-dp-0415420237/dp/0415420237/)
 - [ ]  The Secret World: A History of Intelligence [Amazon](https://www.amazon.com/Christopher-Andrew/dp/0300238444/)
 - [ ]  The Moscow Rules: The Secret CIA Tactics That Helped America Win the Cold War [Amazon](https://www.amazon.com//gp/product/B079L4W3DR/)
