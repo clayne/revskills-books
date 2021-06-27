@@ -9,6 +9,7 @@
 - [ ]  My 5 Cambridge Friends [Amazon](https://www.amazon.com/My-Cambridge-Friends-Cairncross-Controller/dp/0374216983/)
 - [ ]  China's Quest for Foreign Technology: Beyond Espionage [Amazon](https://www.amazon.com/Chinas-Quest-Foreign-Technology-Espionage-dp-0367473593/dp/0367473593/)
 - [ ]  Český krtek v CIA
+- [ ]  Český špion Erwin van Haarlem
 - [ ]  Spymaster: My Thirty-two Years in Intelligence and Espionage Against the West [Amazon](https://www.amazon.com/Spymaster-Thirty-two-Intelligence-Espionage-Against/dp/0465014453/)
 - [ ]  To Catch a Spy: The Art of Counterintelligence [Amazon](https://www.amazon.com/Catch-Spy-Art-Counterintelligence/dp/1626166803)
 - [ ]  Secret Intelligence: A Reader [Amazon](https://www.amazon.com/Christopher-Andrew-dp-0415420237/dp/0415420237/)
