@@ -56,6 +56,7 @@
 - [x]  Cybersecurity in Germany (SpringerBriefs in Cybersecurity) [Amazon](https://www.amazon.com/Cybersecurity-Germany-SpringerBriefs-Martin-Schallbruch-ebook/dp/B07G4GN5LN/) \[**5**\]
 - [x]  The Rust Programming Language [Amazon](https://www.amazon.com/Rust-Programming-Language-Covers-2018/dp/1718500440/) \[**7**\]
 - [x]  Programming Rust: Fast, Safe Systems Development [Amazon](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283/) \[**5**\]
+- [ ]  Rust for Rustaceans [nostarch](https://nostarch.com/rust-rustaceans)
 - [x]  Black Hat Go [Amazon](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659/) \[**5**\]
 - [x]  Fuzzing for Software Security Testing and Quality Assurance [Amazon](https://www.amazon.com/Fuzzing-Software-Security-Testing-Assurance/dp/1608078507) \[**5**\]
 - [x]  Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats [Amazon](https://www.amazon.com/Rootkits-Bootkits-Reversing-Malware-Generation/dp/1593277164/) \[**7**\]
