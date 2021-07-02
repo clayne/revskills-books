@@ -9,6 +9,8 @@
 - [x]  Russians Among Us: Sleeper Cells, Ghost Stories, and the Hunt for Putin's Spies [Amazon](https://www.amazon.com/Unti-Lou-Areroc/dp/0062889419/) \[**7**\]
 - [ ]  My 5 Cambridge Friends [Amazon](https://www.amazon.com/My-Cambridge-Friends-Cairncross-Controller/dp/0374216983/)
 - [ ]  China's Quest for Foreign Technology: Beyond Espionage [Amazon](https://www.amazon.com/Chinas-Quest-Foreign-Technology-Espionage-dp-0367473593/dp/0367473593/)
+- [ ]  Special Duty: A History of the Japanese Intelligence Community [Amazon](https://www.amazon.com/Special-Duty-Japanese-Intelligence-Community/dp/1501741586/)
+- [ ]  Japanese Foreign Intelligence and Grand Strategy: From the Cold War to the Abe Era [Amazon](https://www.amazon.com/Japanese-Foreign-Intelligence-Grand-Strategy/dp/1647120632/)
 - [ ]  Český krtek v CIA
 - [ ]  Český špion Erwin van Haarlem
 - [ ]  Spymaster: My Thirty-two Years in Intelligence and Espionage Against the West [Amazon](https://www.amazon.com/Spymaster-Thirty-two-Intelligence-Espionage-Against/dp/0465014453/)
