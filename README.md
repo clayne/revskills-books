@@ -39,7 +39,7 @@
 - [ ]  Cognitive Bias in Intelligence Analysis: Testing the Analysis of Competing Hypotheses Method [Edinburgh University Press](https://edinburghuniversitypress.com/book-cognitive-bias-in-intelligence-analysis-hb.html)
 - [ ]  Spies and Their Masters: Intelligence-policy Relations in Democratic Countries [Amazon](https://www.amazon.de/Matteo-Faini/dp/0367407620/)
 - [ ]  Ransomware Revolution: The Rise of a Prodigious Cyber Threat [Amazon](https://www.amazon.com/Matthew-Ryan-ebook/dp/B08XJT6N7V/)
-- [ ]  Dark Web Investigation [Amazon](https://www.amazon.com/Babak-Akhgar-dp-3030553426/dp/3030553426/)
+- [x]  Dark Web Investigation [Amazon](https://www.amazon.com/Babak-Akhgar-dp-3030553426/dp/3030553426/) \[**4**\]
 - [x]  The Insider Threat: Assessment and Mitigation of Risks [Amazon](https://www.amazon.com/Eleanor-Thompson/dp/0367565307/) \[**5**\]
 - [x]  Malicious Attack Propagation and Source Identification [Amazon](https://www.amazon.com/Malicious-Propagation-Identification-Advances-Information-ebook/dp/B07KQZN9VJ/) \[**5**\]
 - [x]  Czech Security Dilemma: Russia as a Friend or Enemy? [Amazon](https://www.amazon.com/Czech-Security-Dilemma-Russia-Challenges-ebook/dp/B07TVM91NL/) \[**4**\]
