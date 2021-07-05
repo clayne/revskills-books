@@ -1,6 +1,7 @@
 ## books [1/10]
 
 - [ ] The Politics of Cybersecurity in the Middle East [Hurst Publishers](https://www.hurstpublishers.com/book/the-politics-of-cybersecurity-in-the-middle-east/)
+- [ ] Cyber War & Cyber Peace in the Middle East: Digital Conflict in the Cradle of Civilization [Amazon](https://www.amazon.com/Cyber-War-Peace-Middle-East/dp/B08KPXM6H3/)
 - [ ] The Art Of Conjuring Alternate Realities: How Information Warfare Shapes Your World [Amazon](https://www.amazon.com/Art-Conjuring-Alternate-Realities-Information-ebook/dp/B097J8NHPL/)
 - [x]  @War: The Rise of the Military-Internet Complex [Amazon](https://www.amazon.com/War-Rise-Military-Internet-Complex/dp/0544570286) \[**6**\]
 - [ ]  Russian Influence Campaigns against the West: From the Cold War to Putin [Amazon](https://www.amazon.com/Russian-Influence-Campaigns-against-West/dp/1535597097/)
