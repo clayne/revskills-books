@@ -32,6 +32,7 @@
 - [x]  Vietnamese Organized Crime in the Czech Republic [Amazon](https://www.amazon.com/Vietnamese-Organized-Republic-Prevention-Management/dp/3030436128/) \[**5**\]
 - [x]  Applied Behavior Analysis (3rd Edition) [Amazon](https://www.amazon.com/Applied-Behavior-Analysis-John-Cooper/dp/0134752554/) \[**7**\]
 - [x]  Mindhunter: Inside the FBI's Elite Serial Crime Unit [Amazon](https://www.amazon.com/Mindhunter-Inside-Elite-Serial-Crime/dp/1501191969/) \[**7**\]
+- [ ]  Pointer Analysis (Foundations and Trends(r) in Programming Languages) [Amazon](https://www.amazon.com/Pointer-Analysis-Foundations-Programming-Languages/dp/1680830201)
 - [x]  Attribution of Advanced Persistent Threats: How to Identify the Actors Behind Cyber-Espionage [Amazon](https://www.amazon.com/Attribution-Advanced-Persistent-Threats-Cyber-Espionage/dp/3662613123/) \[**7**\]
 - [ ]  Malware Data Science: Attack Detection and Attribution [Amazon](https://www.amazon.com/Malware-Data-Science-Detection-Attribution/dp/1593278594/)
 - [ ]  Malware Analysis and Detection Engineering: A Comprehensive Approach to Detect and Analyze Modern Malware [Amazon](https://www.amazon.com/dp/1484261925)
