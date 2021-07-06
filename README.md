@@ -28,6 +28,10 @@
 - [x]  Yo confieso: 45 años de espía [Amazon](https://www.amazon.es/Yo-confieso-esp%C3%ADa-seller-Ficci%C3%B3n/dp/8416859868/) \[**6**\]
 - [ ]  GCHQ [Amazon](https://www.amazon.com/GCHQ-Richard-Aldrich/dp/0007278470/)
 - [ ]  Mossad: The Great Operations of Israel's Secret Service [Amazon](https://www.amazon.com/Mossad-Operations-Israels-Service-English-ebook/dp/B00AKGPVNU/)
+- [ ]  Defend the Realm: The Authorized History of MI5 [Amazon](https://www.amazon.com/Defend-Realm-Authorized-History-MI5/dp/0307263630)
+- [ ]  The FBI-KGB War [Amazon](https://www.amazon.com/FBI-KGB-War-Robert-J-Lamphere/dp/0865544778)
+- [ ]  MI6: Inside the Covert World of Her Majesty's Secret Intelligence Service [Amazon](https://www.amazon.com/MI6-Inside-Majestys-Intelligence-Service/dp/0743217780)
+- [ ]  Warrior: Frank Sturgis [Amazon](https://www.amazon.com/Warrior-Sturgis-Assassin-Spy-Ambushed-Watergate/dp/076532864X/)
 - [ ]  Compromised, Counterintelligence and the threat of Donald J. Trump [hmhbooks](https://www.hmhbooks.com/shop/books/Compromised/9780358237532)
 - [x]  Vietnamese Organized Crime in the Czech Republic [Amazon](https://www.amazon.com/Vietnamese-Organized-Republic-Prevention-Management/dp/3030436128/) \[**5**\]
 - [x]  Applied Behavior Analysis (3rd Edition) [Amazon](https://www.amazon.com/Applied-Behavior-Analysis-John-Cooper/dp/0134752554/) \[**7**\]
