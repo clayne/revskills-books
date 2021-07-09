@@ -2,6 +2,8 @@
 
 - [ ] The Politics of Cybersecurity in the Middle East [Hurst Publishers](https://www.hurstpublishers.com/book/the-politics-of-cybersecurity-in-the-middle-east/)
 - [ ] Cyber War & Cyber Peace in the Middle East: Digital Conflict in the Cradle of Civilization [Amazon](https://www.amazon.com/Cyber-War-Peace-Middle-East/dp/B08KPXM6H3/)
+- [ ] The Virtual Weapon and International Order [Amazon](https://www.amazon.com/Virtual-Weapon-International-Order/dp/0300220235)
+- [ ] Offensive Cyber Operations: Understanding Intangible Warfare [Hurst Publishers](https://www.hurstpublishers.com/book/offensive-cyber-operations/)
 - [ ] The Art Of Conjuring Alternate Realities: How Information Warfare Shapes Your World [Amazon](https://www.amazon.com/Art-Conjuring-Alternate-Realities-Information-ebook/dp/B097J8NHPL/)
 - [x]  @War: The Rise of the Military-Internet Complex [Amazon](https://www.amazon.com/War-Rise-Military-Internet-Complex/dp/0544570286) \[**6**\]
 - [ ]  Russian Influence Campaigns against the West: From the Cold War to Putin [Amazon](https://www.amazon.com/Russian-Influence-Campaigns-against-West/dp/1535597097/)
@@ -14,6 +16,7 @@
 - [ ]  Japanese Foreign Intelligence and Grand Strategy: From the Cold War to the Abe Era [Amazon](https://www.amazon.com/Japanese-Foreign-Intelligence-Grand-Strategy/dp/1647120632/)
 - [ ]  Český krtek v CIA
 - [ ]  Český špion Erwin van Haarlem
+- [ ]  The Angel: The Egyptian Spy Who Saved Israel [Amazon](https://www.amazon.com/Angel-Egyptian-Spy-Saved-Israel/dp/0062420100/)
 - [ ]  Spymaster: My Thirty-two Years in Intelligence and Espionage Against the West [Amazon](https://www.amazon.com/Spymaster-Thirty-two-Intelligence-Espionage-Against/dp/0465014453/)
 - [ ]  To Catch a Spy: The Art of Counterintelligence [Amazon](https://www.amazon.com/Catch-Spy-Art-Counterintelligence/dp/1626166803)
 - [ ]  Secret Intelligence: A Reader [Amazon](https://www.amazon.com/Christopher-Andrew-dp-0415420237/dp/0415420237/)
