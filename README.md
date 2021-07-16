@@ -1,5 +1,6 @@
 ## books [1/10]
 
+- [ ] The Big Black Book of Electronic Surveillance [Amazon](https://www.amazon.com/Big-Black-Book-Electronic-Surveillance/dp/B08CMBG6DX)
 - [ ] The Politics of Cybersecurity in the Middle East [Hurst Publishers](https://www.hurstpublishers.com/book/the-politics-of-cybersecurity-in-the-middle-east/)
 - [ ] Cyber War & Cyber Peace in the Middle East: Digital Conflict in the Cradle of Civilization [Amazon](https://www.amazon.com/Cyber-War-Peace-Middle-East/dp/B08KPXM6H3/)
 - [ ] The Virtual Weapon and International Order [Amazon](https://www.amazon.com/Virtual-Weapon-International-Order/dp/0300220235)
