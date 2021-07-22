@@ -23,7 +23,7 @@
 - [ ]  Secret Intelligence: A Reader [Amazon](https://www.amazon.com/Christopher-Andrew-dp-0415420237/dp/0415420237/)
 - [ ]  The Secret World: A History of Intelligence [Amazon](https://www.amazon.com/Christopher-Andrew/dp/0300238444/)
 - [x]  The Moscow Rules: The Secret CIA Tactics That Helped America Win the Cold War [Amazon](https://www.amazon.com//gp/product/B079L4W3DR/) \[**7**\]
-- [ ]  Gray Day: My Undercover Mission to Expose America's First Cyber Spy [Amazon](https://www.amazon.com/Eric-ONeill/dp/0525573526/)
+- [x]  Gray Day: My Undercover Mission to Expose America's First Cyber Spy [Amazon](https://www.amazon.com/Eric-ONeill/dp/0525573526/) \[**6**\]
 - [x]  We Are Bellingcat, An Intelligence Agency for the People [Amazon](https://www.amazon.com/Eliot-Higgins-ebook/dp/B08N4SBFM6/) \[**5**\]
 - [x]  This Is How They Tell Me the World Ends: The Cyberweapons Arms Race [Amazon](https://www.amazon.com/Nicole-Perlroth-ebook/dp/B0877D6H28/r) [**5**\]
 - [ ]  Criminal Profiling: An Introduction to Behavioral Evidence Analysis [Amazon](https://www.amazon.com/Criminal-Profiling-Introduction-Behavioral-Evidence/dp/0123852439)
