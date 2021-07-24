@@ -1,11 +1,12 @@
 ## books [1/10]
 
-- [ ] The Big Black Book of Electronic Surveillance [Amazon](https://www.amazon.com/Big-Black-Book-Electronic-Surveillance/dp/B08CMBG6DX)
-- [ ] The Politics of Cybersecurity in the Middle East [Hurst Publishers](https://www.hurstpublishers.com/book/the-politics-of-cybersecurity-in-the-middle-east/)
-- [ ] Cyber War & Cyber Peace in the Middle East: Digital Conflict in the Cradle of Civilization [Amazon](https://www.amazon.com/Cyber-War-Peace-Middle-East/dp/B08KPXM6H3/)
-- [ ] The Virtual Weapon and International Order [Amazon](https://www.amazon.com/Virtual-Weapon-International-Order/dp/0300220235)
-- [ ] Offensive Cyber Operations: Understanding Intangible Warfare [Hurst Publishers](https://www.hurstpublishers.com/book/offensive-cyber-operations/)
-- [ ] The Art Of Conjuring Alternate Realities: How Information Warfare Shapes Your World [Amazon](https://www.amazon.com/Art-Conjuring-Alternate-Realities-Information-ebook/dp/B097J8NHPL/)
+- [ ]  The Big Black Book of Electronic Surveillance [Amazon](https://www.amazon.com/Big-Black-Book-Electronic-Surveillance/dp/B08CMBG6DX)
+- [ ]  The Politics of Cybersecurity in the Middle East [Hurst Publishers](https://www.hurstpublishers.com/book/the-politics-of-cybersecurity-in-the-middle-east/)
+- [ ]  Cyber War & Cyber Peace in the Middle East: Digital Conflict in the Cradle of Civilization [Amazon](https://www.amazon.com/Cyber-War-Peace-Middle-East/dp/B08KPXM6H3/)
+- [ ]  The Virtual Weapon and International Order [Amazon](https://www.amazon.com/Virtual-Weapon-International-Order/dp/0300220235)
+- [ ]  Russian Cyber Operations: Coding the Boundaries of Conflict [Amazon](https://www.amazon.com/Russian-Cyber-Operations-Boundaries-Conflict/dp/1626167974/)
+- [ ]  Offensive Cyber Operations: Understanding Intangible Warfare [Hurst Publishers](https://www.hurstpublishers.com/book/offensive-cyber-operations/)
+- [ ]  The Art Of Conjuring Alternate Realities: How Information Warfare Shapes Your World [Amazon](https://www.amazon.com/Art-Conjuring-Alternate-Realities-Information-ebook/dp/B097J8NHPL/)
 - [x]  @War: The Rise of the Military-Internet Complex [Amazon](https://www.amazon.com/War-Rise-Military-Internet-Complex/dp/0544570286) \[**6**\]
 - [ ]  Russian Influence Campaigns against the West: From the Cold War to Putin [Amazon](https://www.amazon.com/Russian-Influence-Campaigns-against-West/dp/1535597097/)
 - [x]  Unmasking Maskirovka [Amazon](https://www.amazon.com/-/es/Unmasking-Maskirovka-Russias-Influence-Operations/dp/0578451425/) \[**8**\]
@@ -25,7 +26,7 @@
 - [x]  The Moscow Rules: The Secret CIA Tactics That Helped America Win the Cold War [Amazon](https://www.amazon.com//gp/product/B079L4W3DR/) \[**7**\]
 - [x]  Gray Day: My Undercover Mission to Expose America's First Cyber Spy [Amazon](https://www.amazon.com/Eric-ONeill/dp/0525573526/) \[**6**\]
 - [x]  We Are Bellingcat, An Intelligence Agency for the People [Amazon](https://www.amazon.com/Eliot-Higgins-ebook/dp/B08N4SBFM6/) \[**5**\]
-- [x]  This Is How They Tell Me the World Ends: The Cyberweapons Arms Race [Amazon](https://www.amazon.com/Nicole-Perlroth-ebook/dp/B0877D6H28/r) [**5**\]
+- [x]  This Is How They Tell Me the World Ends: The Cyberweapons Arms Race [Amazon](https://www.amazon.com/Nicole-Perlroth-ebook/dp/B0877D6H28/r) \[**5**\]
 - [ ]  Criminal Profiling: An Introduction to Behavioral Evidence Analysis [Amazon](https://www.amazon.com/Criminal-Profiling-Introduction-Behavioral-Evidence/dp/0123852439)
 - [ ]  Wordcrime: Solving Crime Through Forensic Linguistics [Amazon](https://www.amazon.com/Wordcrime-Solving-Through-Forensic-Linguistics-ebook/dp/B00GNZ2HHU/)
 - [x]  La casa II: CNI: Agentes, operaciones secretas y acciones inconfesables de los espías españoles [Amazon](https://www.amazon.es/casa-II-operaciones-inconfesables-espa%C3%B1oles/dp/8416859876/) \[**5**\]
